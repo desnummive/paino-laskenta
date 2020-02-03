@@ -1,0 +1,2 @@
+# paino-laskenta
+Painolaskentaohjelman säilytyspaikka
